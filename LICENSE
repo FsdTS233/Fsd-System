@@ -1,8 +1,8 @@
                     木兰公共许可证
 
-版权所有 (c) 2024，FsdTS233
+版权所有 (c) 2024,FsdTS233
 
-FsdSystem 采用木兰公共许可证第二版（Mulan PubL v2）授权。
+FsdSystem 采用木兰公共许可证第二版(Mulan PubL v2)授权。
 
 木兰公共许可证， 第2版
 
@@ -72,20 +72,8 @@ FsdSystem 采用木兰公共许可证第二版（Mulan PubL v2）授权。
 
 “本许可证”以中英文双语表述，中英文版本具有同等法律效力。如果中英文版本存在任何不一致，以中文版为准。
 
-条款结束
-
-如何将木兰公共许可证，第2版，应用到您的软件
-
-如果您希望将木兰公共许可证，第2版，应用到您的软件，为了方便接收者查阅，建议您完成如下三步：
-
-1， 请您补充如下声明中的空白，包括软件名、软件的首次发表年份以及您作为版权人的名字；
-
-2， 请您在软件包的一级目录下创建以“LICENSE”为名的文件，将整个许可证文本放入该文件中；
-
-3， 请将如下声明文本放入每个源文件的头部注释中。
-
-Copyright (c) [Year] [name of copyright holder]
-[Software Name] is licensed under Mulan PubL v2.
+Copyright (c) 2024 FsdTS233
+FsdSystem is licensed under Mulan PubL v2.
 You can use this software according to the terms and conditions of the Mulan PubL v2.
 You may obtain a copy of Mulan PubL v2 at:
          http://license.coscl.org.cn/MulanPubL-2.0
